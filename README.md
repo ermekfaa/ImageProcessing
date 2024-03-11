@@ -1,3 +1,3 @@
 # Project series that includes my image processing & deep learning codes
 
-### MNIST train dataset = https://www.kaggle.com/competitions/digit-recognizer
+### MNIST train dataset = https://www.kaggle.com/competitions/digit-recognizer - Neural Network with no Libraries
